@@ -6,6 +6,10 @@ Click on a die or Roll button to start game. Click on dice to hold and roll butt
 
 In the project directory, you can run:
 
+### `yarn install`
+
+To install all necessary dependencies to run app.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
